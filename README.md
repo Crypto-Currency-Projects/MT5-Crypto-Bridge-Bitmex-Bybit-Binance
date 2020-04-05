@@ -5,7 +5,7 @@ Trade from your MT5 platform to many Crypto Exchanges via Cryptobridge
 2. Binance exchange, BinanceFutures, BinanceDEX
 3. Bybit 
 4. Kucoin 
-5. Need another exchange? Contact the [developer](t.me/Hedgebitcoin) 
+5. Need another exchange? Contact the [developer](https://t.me/Hedgebitcoin) 
 
 Use the libraries with your own robots 
 1. #import "Binance_api.ex5" - See the FX4BTC_Binance_API_v10 mql5 code for a complete example
