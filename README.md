@@ -1,6 +1,13 @@
 # MT5-Bridge-Bitmex-Bybit-Binance
 Trade from your MT5 platform to many Crypto Exchanges via Cryptobridge
 
+Use the libraries with your own robots 
+1. #import "Binance_api.ex5" - See the FX4BTC_Binance_API_v10 mql5 code for a complete example
+2. OnInit() add the exchange API function such as **Binance_Get_API_Key(Binance_Api_Key,Binance_Api_Secret); ** 
+3. OnTick() use the library functions such as Binance_GetOpenOrders(), Binance_GetPrice(), Binance_Open_Trade()
+
+By making your own bot and using the CryptoBridge Libraries, you have endless possibilities with your strategy development. 
+
 # Classic UI
 ![Version_One](https://i.imgur.com/HJ3fDLu.png)
 
