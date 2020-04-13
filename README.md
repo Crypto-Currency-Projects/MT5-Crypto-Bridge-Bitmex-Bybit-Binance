@@ -2,7 +2,7 @@
 Trade from your MT5 platform to many Crypto Exchanges via Cryptobridge
 
 1. Bitmex
-2. Binance exchange, BinanceFutures, BinanceDEX
+2. Binance BinanceUS exchange, BinanceFutures, BinanceDEX
 3. Bybit 
 4. Kucoin 
 5. Need another exchange? Contact the [developer](https://t.me/Hedgebitcoin) 
