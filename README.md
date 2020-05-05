@@ -1,5 +1,5 @@
 # MT5-Bridge-Bitmex-Bybit-Binance
-Trade from your MT5 platform to many Crypto Exchanges via CryptobridgePro
+[REPO MOVED}(https://github.com/fx4btc/CryptoBridgePro)
 
 1. Bitmex
 2. Binance, BinanceUS, BinanceFutures, BinanceDEX
@@ -19,7 +19,7 @@ By making your own bot and using the CryptoBridgePro Libraries, you have endless
 
 # Notes
 ## CryptobridgePro 
-connects to several crypto exchanges including binance, bitmex, and bybit for manual trading. 
+connects to several crypto exchanges [including binance, bitmex, and bybit](https://github.com/fx4btc/CryptoBridgePro) 
 
 1. Allow webrequests
 2. Allow DLL imports
