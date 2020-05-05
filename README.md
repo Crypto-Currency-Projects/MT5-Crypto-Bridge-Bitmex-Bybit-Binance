@@ -1,5 +1,5 @@
 # MT5-Bridge-Bitmex-Bybit-Binance
-[REPO MOVED}(https://github.com/fx4btc/CryptoBridgePro)
+[REPO MOVED](https://github.com/fx4btc/CryptoBridgePro)
 
 1. Bitmex
 2. Binance, BinanceUS, BinanceFutures, BinanceDEX
