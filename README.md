@@ -1,5 +1,5 @@
 # MT5-Bridge-Bitmex-Bybit-Binance
-[REPO MOVED](https://github.com/fx4btc/CryptoBridgePro)
+[REPO MOVED](https://github.com/TradingToolCrypto/CryptoBridgePro)
 
 1. Bitmex
 2. Binance, BinanceUS, BinanceFutures, BinanceDEX
@@ -9,11 +9,11 @@
 Need another exchange? Contact the [developer](https://t.me/Hedgebitcoin) 
 
 # Classic UI
-![Version_One](https://i.imgur.com/HJ3fDLu.png)
+![CryptoBridePro](https://github.com/TradingToolCrypto/CryptoBridgePro/blob/master/BTCUSDTM1.png)
 
 # Notes
 ## CryptobridgePro 
-connects to several crypto exchanges [including binance, bitmex, and bybit](https://github.com/fx4btc/CryptoBridgePro) 
+connects to several crypto exchanges [including binance, bitmex, and bybit](https://github.com/TradingToolCrypto/CryptoBridgePro) 
 
 1. Allow webrequests
 2. Allow DLL imports
@@ -28,8 +28,8 @@ connects to several crypto exchanges [including binance, bitmex, and bybit](http
 11. Insert a "Buy Price" for your buy limit order then click "Bid"
 12. Click the "B.Bid" button to place your buy limit on top of the orderbook
 
-For Automated Trading
+For Automated Trading 
 
-[Wiki](https://github.com/fx4btc/MT5-Crypto-Bridge-Bitmex-Bybit-Binance/wiki/Automated-Trading)
+[Wiki](https://github.com/TradingToolCrypto/TradingTool/wiki/Exchange-CopyTrades)
 
 
